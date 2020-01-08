@@ -88,7 +88,3 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 * **Important:** Do not upload notebooks that contain your RDS password and endpoint. Be sure to delete them before making your notebook public!
 
 - - -
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
